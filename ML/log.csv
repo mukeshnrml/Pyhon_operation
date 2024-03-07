@@ -1,0 +1,9 @@
+gender,hours,pass
+M,1,FALSE
+F,2,FALSE
+F,3,FALSE
+M,4,TRUE
+M,5,TRUE
+F,6,TRUE
+M,7,TRUE
+F,8,TRUE

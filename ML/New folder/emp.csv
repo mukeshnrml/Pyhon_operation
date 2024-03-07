@@ -1,0 +1,31 @@
+company,job,degree,salary
+Infoys,Developer,Graduate,<5000
+Infoys,Sales,Post Grad,>5000
+Infoys,Sales,Graduate,<5000
+Infoys,Developer,Post Grad,>5000
+Infoys,Manager,Graduate,<5000
+Infoys,Manager,Post Grad,<5000
+Infoys,Developer,Graduate,>5000
+Infoys,Sales,Post Grad,<5000
+Infoys,Sales,Graduate,>5000
+Infoys,Developer,Post Grad,<5000
+Wipro,Manager,Graduate,<5000
+Wipro,Manager,Post Grad,>5000
+Wipro,Developer,Graduate,<5000
+Wipro,Sales,Post Grad,>5000
+Wipro,Sales,Graduate,<5000
+Wipro,Developer,Post Grad,<5000
+Wipro,Manager,Graduate,<5000
+Wipro,Manager,Post Grad,>5000
+Wipro,Developer,Graduate,<5000
+Wipro,Sales,Post Grad,<5000
+Wipro,Sales,Graduate,<5000
+TCS,Developer,Post Grad,>5000
+TCS,Manager,Graduate,<5000
+TCS,Manager,Post Grad,<5000
+TCS,Developer,Graduate,<5000
+TCS,Sales,Post Grad,>5000
+TCS,Sales,Graduate,<5000
+TCS,Developer,Post Grad,<5000
+TCS,Manager,Graduate,<5000
+TCS,Manager,Post Grad,>5000
